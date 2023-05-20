@@ -6,6 +6,7 @@ Hi there! 👋 I'm Diego, a passionate Computer Engineering student on the verge
 - Developed an innovative Bitcoin wallet with advanced custodial features, Miniscript.
 - Collaborated with Fortris to create a secure and user-friendly solution.
 - Demonstrated a strong curiosity and eagerness to explore blockchain technology.
+- Created a high-speed Twitter monitor for real-time data analysis.
 
 ## 🌱 About Me
 I am driven by a deep curiosity for technology and its endless possibilities. Always striving to expand my knowledge and skill set, I am enthusiastic about learning new concepts and applying them in practical ways. My dedication and hard work have been instrumental in my academic journey.
