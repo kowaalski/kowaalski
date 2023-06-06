@@ -14,6 +14,6 @@ I am driven by a deep curiosity for technology and its endless possibilities. Al
 ## 📫 Contact Me
 Feel free to reach out to me through the following channels:
 - Email: diegomayo.9@hotmail.es
-- LinkedIn: https://www.linkedin.com/in/diego-garcia-mu%C3%B1oz-4b46a2144
+- LinkedIn: https://www.linkedin.com/in/diego-garcia-malaga
 
 Let's connect and explore exciting opportunities in the world of technology! 🚀
