@@ -1,4 +1,4 @@
-# Diego - DevOps Engineer at Helops
+# Diego - DevOps Engineer at Full On Net
 
 Hi there! 👋 I'm Diego, a passionate Computer Engineering student on the verge of completing my degree next year. Recently, I completed an extension course on blockchain technology, which sparked my interest even further. I've had the opportunity to work on an innovative project in collaboration with Fortris, developing an advanced custodial Bitcoin wallet using Miniscript.
 
@@ -11,8 +11,8 @@ Hi there! 👋 I'm Diego, a passionate Computer Engineering student on the verge
 ## 🌱 About Me
 I am driven by a deep curiosity for technology and its endless possibilities. Always striving to expand my knowledge and skill set, I am enthusiastic about learning new concepts and applying them in practical ways. My dedication and hard work have been instrumental in my academic journey.
 
-## 🚀 Working at Helops
-I am currently working as a DevOps Engineer at Helops, where I play a crucial role in ensuring smooth and efficient software development and deployment processes. Collaborating with development and operations teams, I focus on automating processes, implementing continuous delivery practices, and enhancing infrastructure for optimal software delivery.
+## 🚀 Working at Full On Net
+I am currently working as a DevOps Engineer at Full On Net, where I play a crucial role in ensuring smooth and efficient software development and deployment processes. Collaborating with development and operations teams, I focus on automating processes, implementing continuous delivery practices, and enhancing infrastructure for optimal software delivery.
 
 ## 📫 Contact Me
 Feel free to reach out to me through the following channels:
