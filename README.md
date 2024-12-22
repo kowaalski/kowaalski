@@ -1,6 +1,6 @@
 # Diego - DevOps Engineer at Full On Net
 
-Hi there! 👋 I'm Diego, a passionate Computer Engineering, recently I completed an extension course on blockchain technology, which sparked my interest even further. I've had the opportunity to work on an innovative project in collaboration with Fortris, developing an advanced custodial Bitcoin wallet using Miniscript.
+Hi there! 👋 I'm Diego, a passionate Computer Engineer. Recently I completed an extension course on blockchain technology, which sparked my interest even further. I've had the opportunity to work on an innovative project in collaboration with Fortris, developing an advanced custodial Bitcoin wallet using Miniscript.
 
 ## 🔭 Project Highlights
 - Developed an innovative Bitcoin wallet with advanced custodial features, Miniscript.
